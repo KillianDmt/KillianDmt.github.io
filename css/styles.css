@@ -28,6 +28,10 @@ html {
 	}
 }
 
+a:hover {
+	color : blue ;
+}
+
 .icons-social i {
 	font-size: 3em;
 }
